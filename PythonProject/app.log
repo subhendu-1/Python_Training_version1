@@ -1,0 +1,106 @@
+2025-05-07 12:30:11,422 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 12:30:11,422 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 12:30:11,425 - INFO -  * Restarting with stat
+2025-05-07 12:30:13,901 - WARNING -  * Debugger is active!
+2025-05-07 12:30:13,906 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 12:30:25,266 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 12:30:25,266 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 12:30:25,270 - INFO -  * Restarting with stat
+2025-05-07 12:30:27,549 - WARNING -  * Debugger is active!
+2025-05-07 12:30:27,553 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 12:31:02,105 - INFO - Fetching all products
+2025-05-07 12:31:02,417 - INFO - 127.0.0.1 - - [07/May/2025 12:31:02] "[35m[1mGET /products HTTP/1.1[0m" 500 -
+2025-05-07 12:31:02,909 - INFO - 127.0.0.1 - - [07/May/2025 12:31:02] "GET /products?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-05-07 12:31:02,912 - INFO - 127.0.0.1 - - [07/May/2025 12:31:02] "GET /products?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-05-07 12:31:03,103 - INFO - 127.0.0.1 - - [07/May/2025 12:31:03] "GET /products?__debugger__=yes&cmd=resource&f=console.png&s=aGk9cTlosGZw4zjYcvze HTTP/1.1" 200 -
+2025-05-07 12:31:03,131 - INFO - 127.0.0.1 - - [07/May/2025 12:31:03] "GET /products?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-05-07 12:37:24,650 - INFO -  * Detected change in 'c:\\PythonProject\\models.py', reloading
+2025-05-07 12:37:24,830 - INFO -  * Restarting with stat
+2025-05-07 12:38:23,029 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 12:38:23,029 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 12:38:23,031 - INFO -  * Restarting with stat
+2025-05-07 12:38:24,576 - WARNING -  * Debugger is active!
+2025-05-07 12:38:24,581 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 14:19:41,022 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 14:19:41,023 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 14:19:41,025 - INFO -  * Restarting with stat
+2025-05-07 14:19:42,207 - WARNING -  * Debugger is active!
+2025-05-07 14:19:42,209 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 14:22:40,686 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 14:22:40,686 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 14:22:40,690 - INFO -  * Restarting with stat
+2025-05-07 14:22:43,068 - WARNING -  * Debugger is active!
+2025-05-07 14:22:43,072 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 14:22:54,311 - INFO - Fetching all products
+2025-05-07 14:22:54,327 - INFO - 127.0.0.1 - - [07/May/2025 14:22:54] "GET /products HTTP/1.1" 200 -
+2025-05-07 14:30:36,051 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 14:30:36,052 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 14:30:36,057 - INFO -  * Restarting with stat
+2025-05-07 14:30:38,863 - WARNING -  * Debugger is active!
+2025-05-07 14:30:38,867 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 14:32:34,767 - INFO -  * Detected change in 'c:\\PythonProject\\app.py', reloading
+2025-05-07 14:32:35,115 - INFO -  * Restarting with stat
+2025-05-07 14:32:56,520 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 14:32:56,520 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 14:32:56,523 - INFO -  * Restarting with stat
+2025-05-07 14:32:58,651 - WARNING -  * Debugger is active!
+2025-05-07 14:32:58,655 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 14:35:52,017 - ERROR - Error creating tables: (oracledb.exceptions.DatabaseError) ORA-01017: invalid username/password; logon denied
+Help: https://docs.oracle.com/error-help/db/ora-01017/
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2025-05-07 14:35:52,277 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 14:35:52,277 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 14:35:52,283 - INFO -  * Restarting with stat
+2025-05-07 14:35:55,674 - ERROR - Error creating tables: (oracledb.exceptions.DatabaseError) ORA-01017: invalid username/password; logon denied
+Help: https://docs.oracle.com/error-help/db/ora-01017/
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2025-05-07 14:35:55,758 - WARNING -  * Debugger is active!
+2025-05-07 14:35:55,764 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 14:36:31,877 - INFO - Database tables created successfully.
+2025-05-07 14:36:31,985 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 14:36:31,985 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 14:36:31,988 - INFO -  * Restarting with stat
+2025-05-07 14:36:33,786 - INFO - Database tables created successfully.
+2025-05-07 14:36:33,860 - WARNING -  * Debugger is active!
+2025-05-07 14:36:33,863 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 14:36:49,846 - INFO -  * Detected change in 'c:\\PythonProject\\app.py', reloading
+2025-05-07 14:36:50,080 - INFO -  * Restarting with stat
+2025-05-07 14:36:57,210 - INFO - Database tables created successfully.
+2025-05-07 14:36:57,331 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 14:36:57,331 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 14:36:57,334 - INFO -  * Restarting with stat
+2025-05-07 14:36:59,347 - INFO - Database tables created successfully.
+2025-05-07 14:36:59,418 - WARNING -  * Debugger is active!
+2025-05-07 14:36:59,422 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 14:38:03,824 - INFO - Database tables created successfully.
+2025-05-07 14:38:03,936 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 14:38:03,936 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 14:38:03,939 - INFO -  * Restarting with stat
+2025-05-07 14:38:06,071 - INFO - Database tables created successfully.
+2025-05-07 14:38:06,165 - WARNING -  * Debugger is active!
+2025-05-07 14:38:06,171 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 14:38:10,534 - INFO - Fetching all products
+2025-05-07 14:38:10,544 - INFO - 127.0.0.1 - - [07/May/2025 14:38:10] "GET /products HTTP/1.1" 200 -
+2025-05-07 14:45:16,278 - INFO -  * Detected change in 'c:\\PythonProject\\product.py', reloading
+2025-05-07 14:45:16,461 - INFO -  * Restarting with stat
+2025-05-07 14:45:18,804 - INFO - Database tables created successfully.
+2025-05-07 14:45:18,894 - WARNING -  * Debugger is active!
+2025-05-07 14:45:18,900 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 14:46:11,862 - INFO -  * Detected change in 'c:\\PythonProject\\schema.py', reloading
+2025-05-07 14:46:12,156 - INFO -  * Restarting with stat
+2025-05-07 14:46:14,300 - INFO - Database tables created successfully.
+2025-05-07 14:46:14,373 - WARNING -  * Debugger is active!
+2025-05-07 14:46:14,377 - INFO -  * Debugger PIN: 556-066-920
+2025-05-07 14:46:27,305 - INFO -  * Detected change in 'c:\\PythonProject\\app.py', reloading
+2025-05-07 14:46:27,594 - INFO -  * Restarting with stat

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card shadow-lg mb-4">
+    <div class="card-header bg-primary text-white">
+        <h4>Book Details</h4>
+    </div>
+    <div class="card-body">
+        {% if book %}
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item"><strong>ID:</strong> {{ book.id }}</li>
+            <li class="list-group-item"><strong>Title:</strong> {{ book.title }}</li>
+            <li class="list-group-item"><strong>Author:</strong> {{ book.author }}</li>
+            <li class="list-group-item"><strong>Year:</strong> {{ book.year }}</li>
+            <li class="list-group-item"><strong>Available:</strong> {{ 'Yes' if book.available else 'No' }}</li>
+        </ul>
+        {% else %}
+        <div class="alert alert-warning mt-3">
+            Book not found.
+        </div>
+        {% endif %}
+        <a href="{{ url_for('index') }}" class="btn btn-secondary mt-3">Back to Book List</a>
+    </div>
+</div>
+{% endblock %}
